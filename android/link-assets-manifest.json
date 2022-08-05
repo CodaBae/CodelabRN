@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Rasa-Bold.ttf",
+      "sha1": "8b6b8b9b40732e494ae5cb21d3f692dfe8f10267"
+    },
+    {
+      "path": "assets/fonts/Rasa-Light.ttf",
+      "sha1": "d87d45df54ac2849395040b4f7de6c8b7e375e38"
+    },
+    {
+      "path": "assets/fonts/Rasa-Medium.ttf",
+      "sha1": "098ad6201d04dc1412eaf94517bcfe7a3cfca80d"
+    },
+    {
+      "path": "assets/fonts/Rasa-Regular.ttf",
+      "sha1": "d404776e52e69700c39bd69a79a27999ea884f3c"
+    },
+    {
+      "path": "assets/fonts/Rasa-SemiBold.ttf",
+      "sha1": "8c5c06fe2f46e1f407139a65657da0061cfe9aae"
+    },
+    {
+      "path": "assets/fonts/Ribeye-Regular.ttf",
+      "sha1": "bb7575117c9a4d23161adef69162dc139fe6c5ef"
+    },
+    {
+      "path": "assets/fonts/rasa/OFL.txt",
+      "sha1": "199508b415454e59e87f29bcc54724ebb04b53c5"
+    },
+    {
+      "path": "assets/fonts/ribeye/OFL.txt",
+      "sha1": "0f35174942128e075330b1c184324b5ab96a13b4"
+    }
+  ]
+}
